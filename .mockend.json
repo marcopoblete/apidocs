@@ -1,13 +1,1 @@
-{
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
-}
+[[["Index of Happiness","09:00","10:00","11:00","12:00","13:00"],["Eden",486,441,554,372,225],["Shambhala",273,140,607,897,981],["Avalon",886,880,242,263,215],["Camelot",384,166,317,415,846],["El Dorado",438,685,354,342,397],["Atlantis",835,191,715,905,597]]]
