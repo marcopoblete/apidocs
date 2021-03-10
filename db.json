@@ -1,10 +1,10 @@
 {
-  "bitcoin": [
+  "bitcoin":
     {
       "price": 5000000,
       "date": "2021-03-11"
     }
-  ],
+  ,
   "ethereum": {
     "price": 20000,
     "date": "2021-03-11"
